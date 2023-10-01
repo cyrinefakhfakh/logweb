@@ -95,7 +95,7 @@ line-height: 107.523%;
   transition: .5s;
   right: 95px;
   margin-left: 120px;
-  a
+  
 
   
   
@@ -110,12 +110,12 @@ line-height: 107.523%;
   border-bottom: 1px solid #E1DEDE;
   outline: none;
   background: transparent;
-font-family: IBM Plex Sans Thai Looped;
-font-size: 20px;
-font-style: normal;
-font-weight: 100;
-line-height: 107.523%;
-text-align: center;
+  font-family: IBM Plex Sans Thai Looped;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 100;
+  line-height: 107.523%;
+  text-align: center;
 
 }
 .input-field::placeholder {
@@ -183,10 +183,10 @@ text-align: center;
         }
       
         100% {
-          transform: scale3d(1, 1, 1);*/
+          transform: scale3d(1, 1, 1);
         }
       }
-      #log{
+  #log{
         left:50px
       }
       #sign{
